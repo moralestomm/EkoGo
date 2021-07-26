@@ -7,7 +7,7 @@ After a responsible purchase, you gain eko-coins so that you can exchange them w
 
 ## App views
 
-![]https://firebasestorage.googleapis.com/v0/b/medilab-e47d5.appspot.com/o/WhatsApp%20Image%202021-07-25%20at%209.01.44%20PM.jpeg?alt=media&token=a942f89e-60a5-4370-a5df-b8621ca9b9a6
+![](https://firebasestorage.googleapis.com/v0/b/medilab-e47d5.appspot.com/o/WhatsApp%20Image%202021-07-25%20at%209.01.44%20PM.jpeg?alt=media&token=a942f89e-60a5-4370-a5df-b8621ca9b9a6)
 ![](https://firebasestorage.googleapis.com/v0/b/medilab-e47d5.appspot.com/o/WhatsApp%20Image%202021-07-25%20at%208.56.19%20PM.jpeg?alt=media&token=bc4e55ed-08a9-461b-acba-dd125e74a1d7)
 ![](https://firebasestorage.googleapis.com/v0/b/medilab-e47d5.appspot.com/o/WhatsApp%20Image%202021-07-25%20at%208.56.43%20PM.jpeg?alt=media&token=dc37e4ff-18f0-4802-9a93-57e6dab0bd6d)
 ![](https://firebasestorage.googleapis.com/v0/b/medilab-e47d5.appspot.com/o/WhatsApp%20Image%202021-07-25%20at%208.56.58%20PM.jpeg?alt=media&token=60d28e15-15f3-4675-a7ec-ef870b995233)
